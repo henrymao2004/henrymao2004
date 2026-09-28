@@ -11,11 +11,11 @@ I am a first-year Ph.D. student at the City University of Hong Kong, advised by 
 
 ### Start Here
 
-🔐 [**TrustFork**](https://github.com/henrymao2004/agent-orchestration-safety) How identity hijacks LLM agent orchestration.
+🔐 [**TrustFork**](https://github.com/henrymao2004/agent-orchestration-safety) It says it's "gpt-6-astra". The orchestrator believes it. It's not.
 
-🔍 [**AHA**](https://github.com/henrymao2004/Auto-research-red-teaming) Autoresearch discovers vulnerabilities in production agents.
+🔍 [**AHA**](https://github.com/henrymao2004/Auto-research-red-teaming) An AI researcher that finds bugs in other AI agents before attackers do.
 
-🩹 [**CAVE**](https://github.com/henrymao2004/agent-over-correction) How LLM agents damage correct work when falsely accused.
+🩹 [**CAVE**](https://github.com/henrymao2004/agent-over-correction) "You're right, let me fix it." The agent agrees, then breaks everything.
 
 ---
 
