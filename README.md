@@ -4,7 +4,7 @@ I am a first-year Ph.D. student at the City University of Hong Kong, advised by 
 
 [![Email](https://img.shields.io/badge/Email-xutao.henry.mao%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:xutao.henry.mao@gmail.com)
 [![Personal website](https://img.shields.io/badge/Website-henrymao2004.github.io-green?style=flat-square&logo=googlechrome)](https://henrymao2004.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-henrymao2004-black?style=flat-square&logo=github)](https://github.com/henrymao2004)
+
 
 ---
 
