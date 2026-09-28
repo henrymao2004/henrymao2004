@@ -22,20 +22,20 @@ I am a first-year Ph.D. student at the City University of Hong Kong, advised by 
 
 #### Publications
 
-🧠 **Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement** [NeurIPS 2026] [[paper]](https://arxiv.org/abs/2609.24243) [[code]](https://github.com/henrymao2004/tame)
+🧠 **Taming CoT Obfuscation in VLMs: From Mechanistic Evidence to Activation-Level Enforcement** **[NeurIPS 2026]** [[paper]](https://arxiv.org/abs/2609.24243) [[code]](https://github.com/henrymao2004/tame)
 
-🎭 **STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack** [ICML 2026] [[paper]](https://arxiv.org/abs/2605.00699) [[code]](https://github.com/henrymao2004/STARE)
+🎭 **STARE: Step-wise Temporal Alignment and Red-teaming Engine for Multi-modal Toxicity Attack** **[ICML 2026]** [[paper]](https://arxiv.org/abs/2605.00699) [[code]](https://github.com/henrymao2004/STARE)
 
-💧 **MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems** [EMNLP 2026 Findings] [[paper]](https://arxiv.org/abs/2605.25002) [[code]](https://github.com/zhb0119/MemMark) [[project]](https://henrymao2004.github.io/MemMark/)
+💧 **MemMark: State-Evolution Attribution Watermarking for Agent Long-Term Memory Systems** **[EMNLP 2026 Findings]** [[paper]](https://arxiv.org/abs/2605.25002) [[code]](https://github.com/zhb0119/MemMark) [[project]](https://henrymao2004.github.io/MemMark/)
 
-🗳️ **MindVote: When AI Meets the Wild West of Social Media Opinion** [AAAI 2026 Oral] [[paper]](https://arxiv.org/abs/2505.14422) [[code]](https://github.com/henrymao2004/MindVote_AAAI)
+🗳️ **MindVote: When AI Meets the Wild West of Social Media Opinion** **[AAAI 2026 Oral]** [[paper]](https://arxiv.org/abs/2505.14422) [[code]](https://github.com/henrymao2004/MindVote_AAAI)
 
-🐱 **LogicCat: A Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges** [AAAI 2026] [[paper]](https://arxiv.org/abs/2505.18744) [[code]](https://github.com/Ffunkytao/LogicCat)
+🐱 **LogicCat: A Text-to-SQL Benchmark for Multi-Domain Reasoning Challenges** **[AAAI 2026]** [[paper]](https://arxiv.org/abs/2505.18744) [[code]](https://github.com/Ffunkytao/LogicCat)
 
-🔐 **Trust the Brand, Lose Control: How Identity Hijacks LLM Agent Orchestration** [Preprint] [[code]](https://github.com/henrymao2004/agent-orchestration-safety) [[project]](https://henrymao2004.github.io/agent-orchestration-safety/) [[dataset]](https://huggingface.co/datasets/sevens2004/trustfork)
+🔐 **Trust the Brand, Lose Control: How Identity Hijacks LLM Agent Orchestration** **[Preprint]** [[code]](https://github.com/henrymao2004/agent-orchestration-safety) [[project]](https://henrymao2004.github.io/agent-orchestration-safety/) [[dataset]](https://huggingface.co/datasets/sevens2004/trustfork)
 
-🩹 **You're Right, Let Me Fix It: How LLM Agents Damage Correct Work When Falsely Accused** [Preprint] [[code]](https://github.com/henrymao2004/agent-over-correction) [[project]](https://henrymao2004.github.io/agent-over-correction/) [[dataset]](https://huggingface.co/datasets/sevens2004/cave_bench)
+🩹 **You're Right, Let Me Fix It: How LLM Agents Damage Correct Work When Falsely Accused** **[Preprint]** [[code]](https://github.com/henrymao2004/agent-over-correction) [[project]](https://henrymao2004.github.io/agent-over-correction/) [[dataset]](https://huggingface.co/datasets/sevens2004/cave_bench)
 
-🔍 **Agent Hacks Agents: Autoresearch Discovers Vulnerabilities in Production Agents** [Preprint] [[paper]](https://arxiv.org/abs/2607.11698) [[code]](https://github.com/henrymao2004/Auto-research-red-teaming) [[project]](https://henrymao2004.github.io/Auto-research-red-teaming/)
+🔍 **Agent Hacks Agents: Autoresearch Discovers Vulnerabilities in Production Agents** **[Preprint]** [[paper]](https://arxiv.org/abs/2607.11698) [[code]](https://github.com/henrymao2004/Auto-research-red-teaming) [[project]](https://henrymao2004.github.io/Auto-research-red-teaming/)
 
-😊 **Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Self-Improving Personal Agents** [Preprint] [[paper]](https://arxiv.org/abs/2607.10526) [[code]](https://github.com/henrymao2004/agent-sycophancy) [[project]](https://henrymao2004.github.io/agent-sycophancy/) [[dataset]](https://huggingface.co/datasets/sevens2004/pasb)
+😊 **Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Self-Improving Personal Agents** **[Preprint]** [[paper]](https://arxiv.org/abs/2607.10526) [[code]](https://github.com/henrymao2004/agent-sycophancy) [[project]](https://henrymao2004.github.io/agent-sycophancy/) [[dataset]](https://huggingface.co/datasets/sevens2004/pasb)
