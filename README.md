@@ -39,9 +39,3 @@ I am a first-year Ph.D. student at the City University of Hong Kong, advised by 
 🔍 **Agent Hacks Agents: Autoresearch Discovers Vulnerabilities in Production Agents** [Preprint] [[paper]](https://arxiv.org/abs/2607.11698) [[code]](https://github.com/henrymao2004/Auto-research-red-teaming) [[project]](https://henrymao2004.github.io/Auto-research-red-teaming/)
 
 😊 **Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Self-Improving Personal Agents** [Preprint] [[paper]](https://arxiv.org/abs/2607.10526) [[code]](https://github.com/henrymao2004/agent-sycophancy) [[project]](https://henrymao2004.github.io/agent-sycophancy/) [[dataset]](https://huggingface.co/datasets/sevens2004/pasb)
-
-🔬 **What Happens Inside Agent Memory? Circuit Analysis from Emergence to Diagnosis** [Preprint] [[paper]](https://arxiv.org/abs/2605.03354)
-
-⚠️ **Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents** [Preprint] [[paper]](https://arxiv.org/abs/2608.12851) [[code]](https://github.com/henrymao2004/misevolve)
-
-📊 **Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation** [Preprint] [[paper]](https://arxiv.org/abs/2508.01128)
