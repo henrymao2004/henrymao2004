@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Xutao Mao
 
-I am a first-year Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I also closely work with Prof. [Xiang Zheng](https://x-zheng16.github.io) and Prof. [Bo Han](https://bhanml.github.io/). I study how AI fails as it grows more capable, and how to keep that evolution safe. My publications are available on [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID). I'm always happy to connect, exchange ideas, and explore potential collaborations.
+I am a first-year Ph.D. student at the City University of Hong Kong, advised by Prof. [Cong Wang](https://www.cs.cityu.edu.hk/~congwang/). I also closely work with Prof. [Xiang Zheng](https://x-zheng16.github.io) and Prof. [Bo Han](https://bhanml.github.io/). I study how AI fails as it grows more capable, and how to keep that evolution safe. My publications are available on [Google Scholar](https://scholar.google.com/citations?user=O0S0uiAAAAAJ&hl=en). I'm always happy to connect, exchange ideas, and explore potential collaborations.
 
 [![Email](https://img.shields.io/badge/Email-xutao.henry.mao%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:xutao.henry.mao@gmail.com)
 [![Personal website](https://img.shields.io/badge/Website-henrymao2004.github.io-green?style=flat-square&logo=googlechrome)](https://henrymao2004.github.io)
@@ -10,13 +10,11 @@ I am a first-year Ph.D. student at the City University of Hong Kong, advised by 
 
 ### Start Here
 
-🧠 [**TAME**](https://github.com/henrymao2004/tame) Mechanistic analysis and mitigation for CoT obfuscation in VLMs.
-
-🎭 [**STARE**](https://github.com/henrymao2004/STARE) Step-wise temporal alignment and red-teaming engine for multi-modal toxicity.
-
 🔐 [**TrustFork**](https://github.com/henrymao2004/agent-orchestration-safety) How identity hijacks LLM agent orchestration.
 
-🗳️ [**MindVote**](https://github.com/henrymao2004/MindVote_AAAI) When AI meets the wild west of social media opinion.
+🔍 [**AHA**](https://github.com/henrymao2004/Auto-research-red-teaming) Autoresearch discovers vulnerabilities in production agents.
+
+🩹 [**CAVE**](https://github.com/henrymao2004/agent-over-correction) How LLM agents damage correct work when falsely accused.
 
 ---
 
