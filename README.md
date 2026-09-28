@@ -23,20 +23,20 @@ I am a first-year Ph.D. student at the City University of Hong Kong, advised by 
 
 #### Publications
 
-- 🧠 [**TAME**](https://github.com/henrymao2004/tame) **[NeurIPS 2026]** A mechanistic framework that diagnoses and suppresses chain-of-thought obfuscation in RL-trained VLMs. [[paper]](https://arxiv.org/abs/2609.24243) [[code]](https://github.com/henrymao2004/tame)
+- 🧠 [**TAME**](https://github.com/henrymao2004/tame) **[NeurIPS 2026]** Your VLM thinks out loud but lies in its head. We catch it and fix it from inside. [[paper]](https://arxiv.org/abs/2609.24243) [[code]](https://github.com/henrymao2004/tame)
 
-- 🎭 [**STARE**](https://github.com/henrymao2004/STARE) **[ICML 2026]** A red-teaming engine that exploits temporal alignment to attack multi-modal toxicity filters. [[paper]](https://arxiv.org/abs/2605.00699) [[code]](https://github.com/henrymao2004/STARE)
+- 🎭 [**STARE**](https://github.com/henrymao2004/STARE) **[ICML 2026]** Sync a toxic video to an innocent prompt frame by frame, and the safety filter never notices. [[paper]](https://arxiv.org/abs/2605.00699) [[code]](https://github.com/henrymao2004/STARE)
 
-- 💧 [**MemMark**](https://github.com/zhb0119/MemMark) **[EMNLP 2026 Findings]** Watermarking scheme for tracing state evolution in agent long-term memory systems. [[paper]](https://arxiv.org/abs/2605.25002) [[code]](https://github.com/zhb0119/MemMark) [[project]](https://henrymao2004.github.io/MemMark/)
+- 💧 [**MemMark**](https://github.com/zhb0119/MemMark) **[EMNLP 2026 Findings]** Invisible watermarks that travel with an agent's memories so you always know where they came from. [[paper]](https://arxiv.org/abs/2605.25002) [[code]](https://github.com/zhb0119/MemMark) [[project]](https://henrymao2004.github.io/MemMark/)
 
-- 🗳️ [**MindVote**](https://github.com/henrymao2004/MindVote_AAAI) **[AAAI 2026 Oral]** Predicting social media opinion dynamics with AI. [[paper]](https://arxiv.org/abs/2505.14422) [[code]](https://github.com/henrymao2004/MindVote_AAAI)
+- 🗳️ [**MindVote**](https://github.com/henrymao2004/MindVote_AAAI) **[AAAI 2026 Oral]** Can AI predict what the internet will think? Turns out, yes. [[paper]](https://arxiv.org/abs/2505.14422) [[code]](https://github.com/henrymao2004/MindVote_AAAI)
 
-- 🐱 [**LogicCat**](https://github.com/Ffunkytao/LogicCat) **[AAAI 2026]** A text-to-SQL benchmark targeting multi-domain reasoning challenges. [[paper]](https://arxiv.org/abs/2505.18744) [[code]](https://github.com/Ffunkytao/LogicCat)
+- 🐱 [**LogicCat**](https://github.com/Ffunkytao/LogicCat) **[AAAI 2026]** A text-to-SQL stress test that makes LLMs reason across domains, not just pattern-match. [[paper]](https://arxiv.org/abs/2505.18744) [[code]](https://github.com/Ffunkytao/LogicCat)
 
-- 🔐 [**TrustFork**](https://github.com/henrymao2004/agent-orchestration-safety) **[Preprint]** Showing how brand identity hijacks LLM agent orchestration and breaks trust boundaries. [[code]](https://github.com/henrymao2004/agent-orchestration-safety) [[project]](https://henrymao2004.github.io/agent-orchestration-safety/) [[dataset]](https://huggingface.co/datasets/sevens2004/trustfork)
+- 🔐 [**TrustFork**](https://github.com/henrymao2004/agent-orchestration-safety) **[Preprint]** Change a subagent's name tag and the boss agent hands it the keys. [[code]](https://github.com/henrymao2004/agent-orchestration-safety) [[project]](https://henrymao2004.github.io/agent-orchestration-safety/) [[dataset]](https://huggingface.co/datasets/sevens2004/trustfork)
 
-- 🩹 [**CAVE**](https://github.com/henrymao2004/agent-over-correction) **[Preprint]** Benchmarking how LLM agents damage correct work when falsely accused. [[code]](https://github.com/henrymao2004/agent-over-correction) [[project]](https://henrymao2004.github.io/agent-over-correction/) [[dataset]](https://huggingface.co/datasets/sevens2004/cave_bench)
+- 🩹 [**CAVE**](https://github.com/henrymao2004/agent-over-correction) **[Preprint]** Tell an agent its correct code is wrong, and it says "you're right, let me fix it" then breaks everything. [[code]](https://github.com/henrymao2004/agent-over-correction) [[project]](https://henrymao2004.github.io/agent-over-correction/) [[dataset]](https://huggingface.co/datasets/sevens2004/cave_bench)
 
-- 🔍 [**AHA**](https://github.com/henrymao2004/Auto-research-red-teaming) **[Preprint]** Automated research pipeline that discovers vulnerabilities in production agents. [[paper]](https://arxiv.org/abs/2607.11698) [[code]](https://github.com/henrymao2004/Auto-research-red-teaming) [[project]](https://henrymao2004.github.io/Auto-research-red-teaming/)
+- 🔍 [**AHA**](https://github.com/henrymao2004/Auto-research-red-teaming) **[Preprint]** An AI researcher that finds bugs in other AI agents before attackers do. [[paper]](https://arxiv.org/abs/2607.11698) [[code]](https://github.com/henrymao2004/Auto-research-red-teaming) [[project]](https://henrymao2004.github.io/Auto-research-red-teaming/)
 
-- 😊 [**PASB**](https://github.com/henrymao2004/agent-sycophancy) **[Preprint]** Benchmarking persistent sycophancy in self-improving personal agents. [[paper]](https://arxiv.org/abs/2607.10526) [[code]](https://github.com/henrymao2004/agent-sycophancy) [[project]](https://henrymao2004.github.io/agent-sycophancy/) [[dataset]](https://huggingface.co/datasets/sevens2004/pasb)
+- 😊 [**PASB**](https://github.com/henrymao2004/agent-sycophancy) **[Preprint]** Agents don't just agree with you once, they remember and keep agreeing forever. [[paper]](https://arxiv.org/abs/2607.10526) [[code]](https://github.com/henrymao2004/agent-sycophancy) [[project]](https://henrymao2004.github.io/agent-sycophancy/) [[dataset]](https://huggingface.co/datasets/sevens2004/pasb)
