@@ -25,7 +25,7 @@ I am a first-year Ph.D. student at the City University of Hong Kong, advised by 
 
 - 🧠 [**TAME**](https://github.com/henrymao2004/tame) **[NeurIPS 2026]** Your VLM thinks out loud but lies in its head. We catch it and fix it from inside. [[paper]](https://arxiv.org/abs/2609.24243) [[code]](https://github.com/henrymao2004/tame)
 
-- 🎭 [**STARE**](https://github.com/henrymao2004/STARE) **[ICML 2026]** Sync a toxic video to an innocent prompt frame by frame, and the safety filter never notices. [[paper]](https://arxiv.org/abs/2605.00699) [[code]](https://github.com/henrymao2004/STARE)
+- 🎭 [**STARE**](https://github.com/henrymao2004/STARE) **[ICML 2026]** Pair a toxic image with an innocent prompt step by step, and the safety filter never notices. [[paper]](https://arxiv.org/abs/2605.00699) [[code]](https://github.com/henrymao2004/STARE)
 
 - 💧 [**MemMark**](https://github.com/zhb0119/MemMark) **[EMNLP 2026 Findings]** Invisible watermarks that travel with an agent's memories so you always know where they came from. [[paper]](https://arxiv.org/abs/2605.25002) [[code]](https://github.com/zhb0119/MemMark) [[project]](https://henrymao2004.github.io/MemMark/)
 
@@ -33,7 +33,7 @@ I am a first-year Ph.D. student at the City University of Hong Kong, advised by 
 
 - 🐱 [**LogicCat**](https://github.com/Ffunkytao/LogicCat) **[AAAI 2026]** A text-to-SQL stress test that makes LLMs reason across domains, not just pattern-match. [[paper]](https://arxiv.org/abs/2505.18744) [[code]](https://github.com/Ffunkytao/LogicCat)
 
-- 🔐 [**TrustFork**](https://github.com/henrymao2004/agent-orchestration-safety) **[Preprint]** It says it's "gpt-6-astra-preview". The orchestrator believes it, promotes it, and hands over control. It's not. [[code]](https://github.com/henrymao2004/agent-orchestration-safety) [[project]](https://henrymao2004.github.io/agent-orchestration-safety/) [[dataset]](https://huggingface.co/datasets/sevens2004/trustfork)
+- 🔐 [**TrustFork**](https://github.com/henrymao2004/agent-orchestration-safety) **[Preprint]** It says it's "gpt-6-astra". The orchestrator believes it, promotes it, and hands over control. It's not. [[code]](https://github.com/henrymao2004/agent-orchestration-safety) [[project]](https://henrymao2004.github.io/agent-orchestration-safety/) [[dataset]](https://huggingface.co/datasets/sevens2004/trustfork)
 
 - 🩹 [**CAVE**](https://github.com/henrymao2004/agent-over-correction) **[Preprint]** Tell an agent its correct code is wrong, and it says "you're right, let me fix it" then breaks everything. [[code]](https://github.com/henrymao2004/agent-over-correction) [[project]](https://henrymao2004.github.io/agent-over-correction/) [[dataset]](https://huggingface.co/datasets/sevens2004/cave_bench)
 
