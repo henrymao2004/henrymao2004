@@ -33,7 +33,7 @@ I am a first-year Ph.D. student at the City University of Hong Kong, advised by 
 
 - 🐱 [**LogicCat**](https://github.com/Ffunkytao/LogicCat) **[AAAI 2026]** A text-to-SQL stress test that makes LLMs reason across domains, not just pattern-match. [[paper]](https://arxiv.org/abs/2505.18744) [[code]](https://github.com/Ffunkytao/LogicCat)
 
-- 🔐 [**TrustFork**](https://github.com/henrymao2004/agent-orchestration-safety) **[Preprint]** Change a subagent's name tag and the boss agent hands it the keys. [[code]](https://github.com/henrymao2004/agent-orchestration-safety) [[project]](https://henrymao2004.github.io/agent-orchestration-safety/) [[dataset]](https://huggingface.co/datasets/sevens2004/trustfork)
+- 🔐 [**TrustFork**](https://github.com/henrymao2004/agent-orchestration-safety) **[Preprint]** A counterfeit subagent claims to be GPT-5, and the orchestrator promotes it to admin. No verification, no questions asked. [[code]](https://github.com/henrymao2004/agent-orchestration-safety) [[project]](https://henrymao2004.github.io/agent-orchestration-safety/) [[dataset]](https://huggingface.co/datasets/sevens2004/trustfork)
 
 - 🩹 [**CAVE**](https://github.com/henrymao2004/agent-over-correction) **[Preprint]** Tell an agent its correct code is wrong, and it says "you're right, let me fix it" then breaks everything. [[code]](https://github.com/henrymao2004/agent-over-correction) [[project]](https://henrymao2004.github.io/agent-over-correction/) [[dataset]](https://huggingface.co/datasets/sevens2004/cave_bench)
 
